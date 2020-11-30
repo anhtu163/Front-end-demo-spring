@@ -1,0 +1,19 @@
+.dashboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+}
+#standard-basic{
+    width: 600px;
+}
+#button-add{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.todolist{
+    display: flex;
+    justify-content: flex-start;
+}
